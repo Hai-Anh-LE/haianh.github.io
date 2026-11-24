@@ -10,5 +10,6 @@ minima:
   nav_pages:
     - about.md
     - book.md
+    - cv.md
 
 
